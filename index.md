@@ -1,3 +1,5 @@
+## **How Information Technology Companies Address Ambiguity Resolution and Compliance with Data Protection Laws?**
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dorgivalnetto/journal2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
