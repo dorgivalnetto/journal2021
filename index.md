@@ -2,9 +2,9 @@
 
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dorgivalnetto/journal2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see the [Interview Script](https://github.com/dorgivalnetto/journal2021/blob/gh-pages/Interview%20Script.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can see the [Consent Term (in Portuguese)](https://github.com/dorgivalnetto/journal2021/blob/gh-pages/Termo%20de%20Consentimento%20Livre%20e%20Esclarecido%20(Portuguese).pdf).
 
 ### Markdown
 
