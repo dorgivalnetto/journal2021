@@ -45,9 +45,19 @@ In any case, please rest assured that the survey follows a high academic standar
 
 
 ```
+
+<hr>
+## Survey Plan
+
+<img src="https://user-images.githubusercontent.com/1128903/136506802-fc797727-2d65-454d-bf40-48b71d51ef62.png" class="img-responsive" alt=""> <br>
+Core categories and its Relationships <br>
+
+<hr>
+
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
