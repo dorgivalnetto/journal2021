@@ -1,4 +1,4 @@
-## **How Information Technology Companies Address Ambiguity Resolution and Compliance with Data Protection Laws?**
+## **How Do IT Companies Address Ambiguity Resolution in Legal Requirements Specification? - A study focused on data protection laws**
 
 ## Welcome to GitHub Pages
 
