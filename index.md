@@ -4,6 +4,8 @@
 
 You can see the [Interview Script](https://github.com/dorgivalnetto/journal2021/blob/gh-pages/Interview%20Script.pdf).
 
+You can see the [Informed Consent Term](https://github.com/dorgivalnetto/journal2021/blob/gh-pages/Informed%20Consent%20Form%20(ICF).pdf)
+
 You can see the [Consent Term (in Portuguese)](https://github.com/dorgivalnetto/journal2021/blob/gh-pages/Termo%20de%20Consentimento%20Livre%20e%20Esclarecido%20(Portuguese).pdf).
 
 
