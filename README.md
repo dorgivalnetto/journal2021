@@ -1,8 +1,8 @@
-# How Do IT Companies Address Ambiguity Resolution in Legal Requirements Specification? - A study focused on data protection laws
+# How Do Brazilian IT Companies Address Ambiguity Resolution in Legal Requirements Specification? - A study focused on data protection laws
 
 This page provides **supplementary material** for the research study:
 
-**“How Do IT Companies Address Ambiguity Resolution in Legal Requirements Specification? - A study focused on data protection laws”**
+**“How Do Brazilian IT Companies Address Ambiguity Resolution in Legal Requirements Specification? - A study focused on data protection laws”**
 
 The study investigates how software development companies deal with **ambiguity in legal requirements**, particularly those related to **data protection regulations (e.g., GDPR and LGPD)**.
 
